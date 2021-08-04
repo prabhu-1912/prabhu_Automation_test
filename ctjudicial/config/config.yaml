@@ -1,0 +1,5 @@
+'browser': 'chrome'
+'chrome_driver_path': 'c:\\automation\\drivers\\chromedriver.exe'
+'base_url': 'https://sso.eservices.jud.ct.gov/foreclosures/Public/PendPostbyTownList.aspx'
+'implicit_webdriver_timeout': 20
+'number_of_days_diff_records': 7
